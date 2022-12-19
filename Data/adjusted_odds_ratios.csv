@@ -1,0 +1,11 @@
+﻿or,p-val,ll,hl,moerror,group,label
+1.318,0.0885,0.959,1.81,0.1619,"Perceived Autonomy (ref = ""Agrees"")",All Disagrees
+2.099,0.0024,1.3,3.39,0.2442,"Race/Ethnicity (ref = White, non-Hispanic)","Black, non-Hispanic"
+0.973,0.8855,0.667,1.418,0.1923,"Race/Ethnicity (ref = White, non-Hispanic)",Hispanic/Latina
+1.03,0.8954,0.666,1.593,0.2225,"Race/Ethnicity (ref = White, non-Hispanic)",Other
+1.241,0.2833,0.837,1.839,0.2008,Age (ref = Less than 25 years old),25-34
+1.105,0.6924,0.674,1.811,0.2519,Age (ref = Less than 25 years old),35 and older
+1.456,1.456,0.948,2.239,0.2192,Education (ref = Less than High School - High School),Associate degree or College Degree
+1.679,0.0864,0.999,2.824,0.2651,Education (ref = Less than High School - High School),Graduate school 
+1.328,0.0506,0.886,1.989,0.2061,Education (ref = Less than High School - High School),"Some college, but no degree"
+1.357,0.1689,0.485,3.797,0.5246,Education (ref = Less than High School - High School),"Some graduate school, but no degree"
